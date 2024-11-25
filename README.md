@@ -35,6 +35,7 @@ Enter your choice (1-4): 1
 
 
 
+
 Here's our menu:
 
 Coffee          $2.50
@@ -49,6 +50,8 @@ Smoothie        $4.00
 
 
 
+
+
 Options:
 
 1. View Menu
@@ -60,6 +63,8 @@ Options:
 4. Exit
 
 Enter your choice (1-4): 2
+
+
 
 
 
@@ -82,6 +87,7 @@ Options:
 4. Exit
 
 Enter your choice (1-4): 3
+
 
 
 
@@ -116,7 +122,7 @@ Thanks to all Python enthusiasts for their continuous support and inspiration.
 
 ### Notes:
 
-- Replace `https://github.com/your-username/cafe-management-system` with the actual repository URL.
+- Replace : https://github.com/Rahulsaini012/Cafe_Management_System/commit/e45b56183a428e9493d77cc6564bffffb9df80f5
 
 - Gmail : pb65rahulsaini@gmail.com
 
