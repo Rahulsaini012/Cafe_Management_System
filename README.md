@@ -21,83 +21,83 @@ Welcome to the Cafe Management System!
 ---------------------------------------
 
 
-Options:
-
-1. View Menu
-
-2. Add Item to Order
-
-3. View Bill
-
-4. Exit
-
-Enter your choice (1-4): 1
-
-
-
-
-Here's our menu:
-
-Coffee          $2.50
-
-Tea             $1.80
-
-Sandwich        $5.00
-
-Cake            $3.00
-
-Smoothie        $4.00
-
-
-
-
-
-Options:
-
-1. View Menu
-
-2. Add Item to Order
-
-3. View Bill
-
-4. Exit
-
-Enter your choice (1-4): 2
-
-
-
-
-
-Enter the item you'd like to order: Coffee
-
-How many Coffees would you like to order? 2
-
-2 Coffee(s) added to your order.
-
-
-
-Options:
-
-1. View Menu
-
-2. Add Item to Order
-
-3. View Bill
-
-4. Exit
-
-Enter your choice (1-4): 3
-
-
-
-
-Your current bill:
-
-Coffee          x2 = $5.00
-
-
-
-Total: $5.00
+                            Options:
+                            
+                            1. View Menu
+                            
+                            2. Add Item to Order
+                            
+                            3. View Bill
+                            
+                            4. Exit
+                            
+                            Enter your choice (1-4): 1
+                            
+                            
+                            
+                            
+                            Here's our menu:
+                            
+                            Coffee          $2.50
+                            
+                            Tea             $1.80
+                            
+                            Sandwich        $5.00
+                            
+                            Cake            $3.00
+                            
+                            Smoothie        $4.00
+                            
+                            
+                            
+                            
+                            
+                            Options:
+                            
+                            1. View Menu
+                            
+                            2. Add Item to Order
+                            
+                            3. View Bill
+                            
+                            4. Exit
+                            
+                            Enter your choice (1-4): 2
+                            
+                            
+                            
+                            
+                            
+                            Enter the item you'd like to order: Coffee
+                            
+                            How many Coffees would you like to order? 2
+                            
+                            2 Coffee(s) added to your order.
+                            
+                            
+                            
+                            Options:
+                            
+                            1. View Menu
+                            
+                            2. Add Item to Order
+                            
+                            3. View Bill
+                            
+                            4. Exit
+                            
+                            Enter your choice (1-4): 3
+                            
+                            
+                            
+                            
+                            Your current bill:
+                            
+                            Coffee          x2 = $5.00
+                            
+                            
+                            
+                            Total: $5.00
 
 ## 📋 Project Structure
 
