@@ -4,7 +4,7 @@ Welcome to the **Cafe Management System**! This Python-based project is a simple
 With features like menu display, order management, and billing, it's perfect for small-scale cafes or as a beginner-friendly Python project.
 
 ---
-
+ 
 ## 🎯 Features
 
 - **View Menu**: Displays all available items along with their prices.
