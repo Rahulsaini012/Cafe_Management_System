@@ -120,13 +120,16 @@ Inspired by the simplicity of daily cafe operations.
 Thanks to all Python enthusiasts for their continuous support and inspiration.
 
 
-### Notes:
+### 📬 Contact
 
-- Replace : https://github.com/Rahulsaini012/Cafe_Management_System/commit/e45b56183a428e9493d77cc6564bffffb9df80f5
+For inquiries or issues, contact me:
 
-- Gmail : pb65rahulsaini@gmail.com
 
-- linkedin: 
+Email:pb65rahulsaini@gmail.com
+
+Instagram: https://www.instagram.com/rahul__sainiiii/
+
+Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
 
 
 
